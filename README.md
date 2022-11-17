@@ -8,7 +8,7 @@ A simple Python Script that tweets a random unknown film using [The Movie Databa
 ----
 <div align="left">
  
-This repository contains the source code behind the Twitter "bot" account [@unknownfilms_](https://twitter.com/unknownfilms_)
+This repository contains the source code behind the Twitter bot account [@unknownfilms_](https://twitter.com/unknownfilms_)
     
 The script just picks a random year and queries the TMDB API to find movies from that year that have less than 50 votes. Picks one and if the movie has a poster image and the total length of text is less than 280 characters tweets it.
     
